@@ -1,2 +1,2 @@
-var VERSION = 1;
+var VERSION = 2;
 console.log("activated");
